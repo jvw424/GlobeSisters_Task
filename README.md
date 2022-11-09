@@ -1,16 +1,18 @@
-# emulate
+# Globe Sisters Task
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Post Page
 
-A few resources to get you started if this is your first Flutter project:
+* Adds desired location to a listview upon pressing enter on keyboard input
+* Has a list of 100 suggested cities that updates suggestions as you type 
+* You don not have to choose a suggested city you can type any location and press enter
+* The floating action save button at the bottom clears the list it doesn't actually save response anywhere
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Profile Page
+* Takes a User object as a parameter and builds a layout based on User features
+* User class takes a birthday, a current location, an image path, a list of interests, a phone mumber, an email, a name, and a list of locations. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feed Page
+
+* Loads a list of emails and determines what image to display based on the email provided
