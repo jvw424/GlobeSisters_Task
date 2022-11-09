@@ -16,3 +16,8 @@
 ## Feed Page
 
 * Loads a list of emails and determines what image to display based on the email provided
+
+
+![My Image](assets/ss1.png)
+![My Image](assets/ss2.png))
+![My Image](assets/ss3.png))
